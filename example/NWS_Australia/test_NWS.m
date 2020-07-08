@@ -75,5 +75,5 @@ figure('visible','off','position',[100 100 1800 900]);
  set(a2,'fontsize',13,'linewidth',2);
  
  saveas(gca,[HAR(h,:) '_' num2str(angle1,'%03i') '_' ...
-     num2str(angle2,'%03i') 'deg.tif'],'tif');
+     num2str(angle2,'%03i') 'deg.png'],'png');
  close all
