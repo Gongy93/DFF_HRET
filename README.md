@@ -2,7 +2,7 @@
  Creator: Yankun Gong (University of Western Australia)
  Email:  Yankun.Gong@research.uwa.edu.au
 
-===================================================================================
+===========================================================================
 
 1. Dataset in the subfolder ./data/
 
@@ -15,7 +15,7 @@
      (b) Bathy_HRET.nc:
 	 Bathymetry data using GEBCO_08, which has been interpolated to fit the cells in the HRET product
 	        	   
-===================================================================================
+===========================================================================
 
 2. Scripts and functions
 
@@ -26,7 +26,7 @@
          Take the directional Fourier filter (DFF) method to get the wave signal propagating in a certain direction
          (Mercier et al., 2008; Gong et al. 2020).
 		 
-===================================================================================
+===========================================================================
 
 3. Examples in the subfolder ./example/
     
@@ -36,7 +36,7 @@
      (b) Northern South China Sea: 
          M2 internal tides propagating westward.
 
-===================================================================================
+===========================================================================
 
 4. Images in the subfolder ./images/
 		 
@@ -51,7 +51,7 @@
 		 
      (c) These 13 regions include the West Indian Ocean, Bay of Bengal, South China Sea, Philippine Sea, Indonesian Sea, NE Indian Ocean, Coral Sea, Tasman Sea, North Pacific Ocean, South Pacific Ocean, NE Atlantic Ocean, Bay of Biscay and California Coast. 	
 		 
-===================================================================================
+===========================================================================
 
 5. References
 
