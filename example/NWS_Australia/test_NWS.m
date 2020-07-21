@@ -15,8 +15,8 @@ h = 1; % M2
 
 %% take the DFF method with HRET dataset 
 % The lower band and upper band of selected angle/ propagation direction
-angle1 = 90;
-angle2 = 200;
+angle1 = 180;
+angle2 = 360;
 
 [HAR_filter] = DFF_HRET(HAR_complex,angle1,angle2,seafloor_result);
 
@@ -77,3 +77,7 @@ figure('visible','off','position',[100 100 1800 900]);
  saveas(gca,[HAR(h,:) '_' num2str(angle1,'%03i') '_' ...
      num2str(angle2,'%03i') 'deg.png'],'png');
  close all
+
+ save([HAR(h,:) '_' num2str(angle1,'%03i') '_' ...
+     num2str(angle2,'%03i') 'deg.mat'],'Gph_filter','Amp_filter',...
+     'HAR_filter','lon','lat','seafloor_result');
