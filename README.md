@@ -47,9 +47,9 @@
      (b) SSHbc of internal tides in 13 active regions: 
 	     Four key harmonics are included, namely M2, S2, O1 and K1.
 		 Total internal tide signals are directionally decomposed into four components for all 13 regions 
-         (NW, NE, SW and SE; N, S, W and E) using the direction Fourier filter method (Gong et al., 2020).
+         (NW, NE, SW and SE; N, S, W and E) using the directional Fourier filter method (Gong et al., 2020).
 		 
-	 (c) These 13 regions include the West Indian Ocean, Bay of Bengal, South China Sea, Philippine Sea, Indonesian Sea, NE Indian Ocean, Coral Sea, Tasman Sea, North Pacific Ocean, South Pacific Ocean, NE Atlantic Ocean, Bay of Biscay and California Coast. 	
+     (c) These 13 regions include the West Indian Ocean, Bay of Bengal, South China Sea, Philippine Sea, Indonesian Sea, NE Indian Ocean, Coral Sea, Tasman Sea, North Pacific Ocean, South Pacific Ocean, NE Atlantic Ocean, Bay of Biscay and California Coast. 	
 		 
 ===================================================================================
 
