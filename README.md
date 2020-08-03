@@ -59,6 +59,7 @@
       Phys. Fluids. https://doi.org/10.1063/1.2963136
 	  
     Zaron, E.D., 2019. Baroclinic Tidal Sea Level from Exact-Repeat Mission Altimetry. 
-	  J. Phys. Oceanogr. 49, 193–210. https://doi.org/10.1175/jpo-d-18-0127.1
+      J. Phys. Oceanogr. 49, 193–210. https://doi.org/10.1175/jpo-d-18-0127.1
 
-    Gong ...
+    Gong, Y., Rayson, M.D., Jones, N.L. and Ivey, G.N., 2020. Directional decomposition of internal tides propagating from multiple generation sites.
+      Ocean Modelling. (in revision). 
