@@ -13,7 +13,7 @@
 	 It can be downloaded freely from the internet (http://web.cecs.pdx.edu/~zaron/pub/HRET.html).
 			
      (b) Bathy_HRET.nc:
-	 Bathymetry data using GEBCO_08, which has been interpolated to fit the cells in the HRET product
+	 Bathymetry data using GEBCO_08, which has been interpolated to fit the grids in the HRET product
 	        	   
 ===========================================================================
 
