@@ -12,7 +12,7 @@
 	 A global satellite data of baroclinic sea surface height(SSH) induced by M2 internal tides:
 	 Four key harmonics are included, namely M2, S2, O1 and K1.
    	 The data is a satellite altimetry product (HRET) provided by Zaron (2019).
-	 It can be downloaded freely from the internet (http://web.cecs.pdx.edu/~zaron/pub/HRET.html).
+	 It can be downloaded freely from the internet (https://ezaron.hopto.org/~ezaron/downloads.html).
 			
      (b) Bathy_HRET.nc:
 	 Bathymetry data using GEBCO_08, which has been interpolated to fit the grids in the HRET product
